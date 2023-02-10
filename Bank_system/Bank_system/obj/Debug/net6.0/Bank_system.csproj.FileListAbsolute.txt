@@ -1,0 +1,30 @@
+D:\ASP.net\C#\Bank_system\Bank_system\bin\Debug\net6.0\Bank_system.exe
+D:\ASP.net\C#\Bank_system\Bank_system\bin\Debug\net6.0\Bank_system.deps.json
+D:\ASP.net\C#\Bank_system\Bank_system\bin\Debug\net6.0\Bank_system.runtimeconfig.json
+D:\ASP.net\C#\Bank_system\Bank_system\bin\Debug\net6.0\Bank_system.dll
+D:\ASP.net\C#\Bank_system\Bank_system\bin\Debug\net6.0\Bank_system.pdb
+D:\ASP.net\C#\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.csproj.AssemblyReference.cache
+D:\ASP.net\C#\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.net\C#\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.AssemblyInfoInputs.cache
+D:\ASP.net\C#\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.AssemblyInfo.cs
+D:\ASP.net\C#\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.csproj.CoreCompileInputs.cache
+D:\ASP.net\C#\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.dll
+D:\ASP.net\C#\Bank_system\Bank_system\obj\Debug\net6.0\refint\Bank_system.dll
+D:\ASP.net\C#\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.pdb
+D:\ASP.net\C#\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.genruntimeconfig.cache
+D:\ASP.net\C#\Bank_system\Bank_system\obj\Debug\net6.0\ref\Bank_system.dll
+D:\Study\Mayura Project\Bank_system\Bank_system\bin\Debug\net6.0\Bank_system.exe
+D:\Study\Mayura Project\Bank_system\Bank_system\bin\Debug\net6.0\Bank_system.deps.json
+D:\Study\Mayura Project\Bank_system\Bank_system\bin\Debug\net6.0\Bank_system.runtimeconfig.json
+D:\Study\Mayura Project\Bank_system\Bank_system\bin\Debug\net6.0\Bank_system.dll
+D:\Study\Mayura Project\Bank_system\Bank_system\bin\Debug\net6.0\Bank_system.pdb
+D:\Study\Mayura Project\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.csproj.AssemblyReference.cache
+D:\Study\Mayura Project\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Mayura Project\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.AssemblyInfoInputs.cache
+D:\Study\Mayura Project\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.AssemblyInfo.cs
+D:\Study\Mayura Project\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.csproj.CoreCompileInputs.cache
+D:\Study\Mayura Project\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.dll
+D:\Study\Mayura Project\Bank_system\Bank_system\obj\Debug\net6.0\refint\Bank_system.dll
+D:\Study\Mayura Project\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.pdb
+D:\Study\Mayura Project\Bank_system\Bank_system\obj\Debug\net6.0\Bank_system.genruntimeconfig.cache
+D:\Study\Mayura Project\Bank_system\Bank_system\obj\Debug\net6.0\ref\Bank_system.dll

@@ -1,0 +1,23 @@
+    public abstract class AccountInfo
+    {
+        const string BankName = "Goa Public Bank.PVT.LTD";
+        const string BranchName = "Goa";
+        public abstract string AccountType();
+        protected abstract string AccountHolderDetails(int AccountType, string AccountHolderName, int Age, string address, string state, string country, string emailAddresss);        
+    }
+    public class OpenNewAccount:AccountInfo
+    {
+        public override string AccountType()
+        {
+            Console.WriteLine("################################################\n");
+            Console.WriteLine("Hello,Welcome to Goa Public Bank.PVT LTD");
+            Console.WriteLine("################################################\n");
+            Console.WriteLine("Please select type of an account which you\n wanted to open in our branch");
+            Console.WriteLine("----------------------------\n");
+            Console.WriteLine("1.Current Account");
+            Console.WriteLine("2.Saving Account");
+            Console.WriteLine("Press key for selecting type of an account respectively.");
+                return "your account has been opened";
+        }
+    }
+}
